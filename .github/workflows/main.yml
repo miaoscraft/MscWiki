@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: self-hosted
+
+    steps:
+    - name: clone
+      run: git clone https://github.com/miaoscraft/MscWiki.git
+    - name: build
+      run: gitbook build ./MscWiki /home/www/htdocs/wiki/
+      
