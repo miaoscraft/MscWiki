@@ -7,7 +7,7 @@
     ],
     "pluginsConfig": {
         "editlink": {
-            "base": "https://github.com/miaoscraft/mscwiki",
+            "base": "https://github.com/miaoscraft/MscWiki/blob/master",
             "label": "编辑本页"
         }
     }
