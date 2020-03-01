@@ -5,8 +5,10 @@
     "plugins": [
         "editlink"
     ],
-    "editlink": {
-        "base": "https://github.com/miaoscraft/mscwiki",
-        "label": "编辑本页"
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://github.com/miaoscraft/mscwiki",
+            "label": "编辑本页"
+        }
     }
 }
