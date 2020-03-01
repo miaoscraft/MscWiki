@@ -4,12 +4,13 @@ on: [push]
 
 jobs:
   build:
-
+    name: build
     runs-on: self-hosted
-
     steps:
-    - name: clone
-      run: git clone https://github.com/miaoscraft/MscWiki.git
+    - name: pull
+      run: |
+        cd MscWiki
+        git pull
     - name: build
-      run: gitbook build ./MscWiki /home/www/htdocs/wiki/
+      run: gitbook build ./ /home/www/htdocs/wiki/
       
