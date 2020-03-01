@@ -11,8 +11,6 @@ jobs:
       run: |
         cd /home/bs/MscWiki
         git pull
-    - name: install
-      run : gitbook install /home/bs/Wiki
     - name: build
       run: gitbook build /home/bs/MscWiki /home/www/htdocs/wiki/
       
