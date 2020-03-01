@@ -1,4 +1,4 @@
-# Summary
+# Mscwiki目录
 
-* [Introduction](README.md)
+* [玩家守则](rules.md)
 
