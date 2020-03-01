@@ -12,5 +12,5 @@ jobs:
         cd /home/bs/MscWiki
         git pull
     - name: build
-      run: gitbook build ./ /home/www/htdocs/wiki/
+      run: gitbook build /home/bs/MscWiki /home/www/htdocs/wiki/
       
