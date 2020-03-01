@@ -1,2 +1,4 @@
-# Introduction
+# MscWiKi
+本wiki为Miaoscraft喵喵公馆服务器设定及一些独有内容的介绍
+同时也涉及服务器历史的记录
 
