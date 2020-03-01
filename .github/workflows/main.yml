@@ -9,7 +9,7 @@ jobs:
     steps:
     - name: pull
       run: |
-        cd MscWiki
+        cd /home/bs/MscWiki
         git pull
     - name: build
       run: gitbook build ./ /home/www/htdocs/wiki/
