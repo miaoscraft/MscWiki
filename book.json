@@ -3,12 +3,18 @@
     "language": "zh",
     "description": "A wiki for Miaoscraft",
     "plugins": [
-        "editlink"
+        "editlink",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "editlink": {
             "base": "https://github.com/miaoscraft/MscWiki/blob/master",
             "label": "编辑本页"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy Miaoscraft 2020",
+            "modify_label": "最后修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
