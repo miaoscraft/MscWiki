@@ -8,3 +8,4 @@
     * [皮革](crafting/to_leather.md)
     * [火药](crafting/flint_gunpowder.md)
     * [下界石英](crafting/quartz_block_down.md)
+* [历史](history/introduction.md) 
