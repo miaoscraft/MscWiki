@@ -11,3 +11,6 @@
 * [历史](history/introduction.md) 
   * [桃花源纪](history/taohuayuan.md)
   * [喵喵村庄生存纪](history/miaovillage.md)
+  * [建筑大赛](history/buildingGames.md/introduction.md)
+    * [第一届建筑大赛](history/buildingGames.md/buildgame1.md)
+  * [令和纪元](history/linhe/linhe.md)
