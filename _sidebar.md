@@ -1,5 +1,6 @@
 * [简介](README.md)
 * [玩家守则](rules.md)
+* [SiSCloud](SiScloud.md) 
 * [算命](mcaugur/introduction.md)
   * [通用事件](mcaugur/univeralevents.md)
   * [螭水领事件](mcaugur/chishuiling.md)
@@ -15,5 +16,5 @@
 * [建筑大赛](activities/buildingGames/introduction.md)
   * [第一届建筑大赛](activities/buildingGames/buildgame1.md)
 * 其他活动
-  * [冰道飙车](activities/iceboat.md)  
+  * [冰道飙车](activities/iceboat.md)   
   
