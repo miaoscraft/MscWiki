@@ -13,7 +13,11 @@
   * [桃花源纪](history/taohuayuan.md)
   * [喵喵村庄生存纪](history/miaovillage.md)
   * [令和纪元](history/linhe/linhe.md)
-* [建筑大赛](activities/buildingGames/introduction.md)
+* 服务器材质包
+  * [Msc材质包V1.0](/serverresource/v1.0.md)
+  * [Msc材质包V1.1](/serverresource/V1.1.md)
+  * [Msc材质包V1.2](/serverresource/v1.2.md)
+* 建筑大赛
   * [第一届建筑大赛](activities/buildingGames/buildgame1.md)
 * 其他活动
   * [冰道飙车](activities/iceboat.md)   
