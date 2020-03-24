@@ -1,5 +1,6 @@
 * [简介](README.md)
 * [玩家守则](rules.md)
+* [新玩家指引](forNew.md)
 * [SiSCloud](SiSCloud.md) 
 * [算命](mcaugur/introduction.md)
   * [通用事件](mcaugur/univeralevents.md)
