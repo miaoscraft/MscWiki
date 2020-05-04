@@ -9,6 +9,6 @@ jobs:
     steps:
     - name: pull
       run: |
-        cd /home/www/htdocs/wiki
+        cd /home/www/htdocs/mscwiki
         git pull
       
