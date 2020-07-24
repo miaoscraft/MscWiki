@@ -25,4 +25,6 @@
   * [第一届建筑大赛](/activities/buildingGames/buildgame1.md)
 * 其他活动
   * [冰道飙车](/activities/iceboat.md)   
+* PVP大赛
+  * [第五届PVP大赛](/activities/summer1v1/spvp5.md)  
   
