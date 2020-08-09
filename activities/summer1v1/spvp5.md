@@ -45,3 +45,17 @@ Msc祖传PVP来到了第五届
 
 ##### 击退棒:
 - 击退3
+
+#### 比赛结果
+
+1. poustif - 2035 rating
+2. PurgatoryANA - 1925 rating
+3. Muskin_ac - 1744 rating
+4. iamarainfall - 1676 rating
+5. Zeets510 - 1592 rating
+6. ruuashi - 1520 rating
+7. Yufan_ - 1459 rating
+8. DarklyDuck - 1451 rating
+9. Aqua_Ch - 1440 rating
+10. Chinamiao - 1425 rating
+第一、二名将获得Msc对应奖品,其他均于风音服务器取得相应奖品
