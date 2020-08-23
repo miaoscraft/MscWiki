@@ -3,7 +3,7 @@
 * [新玩家指引](/forNew.md)
 * [SiSCloud](/SiSCloud.md) 
 * 玩家
-  *[玩家申请项目列表](/player/ApplicationList.md) 
+  * [玩家申请项目列表](/player/ApplicationList.md) 
 * [算命](/mcaugur/introduction.md)
   * [通用事件](/mcaugur/univeralevents.md)
   * [螭水领事件](/mcaugur/chishuiling.md)

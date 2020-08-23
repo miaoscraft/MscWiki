@@ -2,6 +2,7 @@
 
 * [服务器成就](/player/ApplicationList?id=服务器成就)
 * [举报](/player/ApplicationList?id=举报申请)
+
 TODO:
 * [居住地登记]()
 * [服务器内活动举办]()
