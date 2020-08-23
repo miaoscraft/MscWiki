@@ -2,6 +2,8 @@
 * [玩家守则](/rules.md)
 * [新玩家指引](/forNew.md)
 * [SiSCloud](/SiSCloud.md) 
+* 玩家
+  *[玩家申请项目列表](/player/ApplicationList.md) 
 * [算命](/mcaugur/introduction.md)
   * [通用事件](/mcaugur/univeralevents.md)
   * [螭水领事件](/mcaugur/chishuiling.md)
@@ -17,10 +19,11 @@
   * [冰河喵纪](/history/icecat.md)
   * [喵喵第二公馆](/history/miaoscraft2.md)
   * [令和纪元](/history/linhe/linhe.md)
-* 服务器材质包
-  * [Msc材质包V1.0](/serverresource/v1.0.md)
-  * [Msc材质包V1.1](/serverresource/V1.1.md)
-  * [Msc材质包V1.2](/serverresource/v1.2.md)
+* 服务器资源包
+  * [Msc资源包V1.0](/serverresource/v1.0.md)
+  * [Msc资源包V1.1](/serverresource/V1.1.md)
+  * [Msc资源包V1.2](/serverresource/v1.2.md)
+  * [Msc资源包v1.3](/serverresource/v1.3.md)
 * 建筑大赛
   * [第一届建筑大赛](/activities/buildingGames/buildgame1.md)
 * 其他活动
