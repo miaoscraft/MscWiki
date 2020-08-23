@@ -1,7 +1,7 @@
 ## 玩家申请项目列表
 
 * [服务器成就](/player/ApplicationList?id=服务器成就)
-* [举报](/player/ApplicationList?id=举报申请)
+* [举报](/player/ApplicationList?id=举报)
 
 TODO:
 * [居住地登记]()
